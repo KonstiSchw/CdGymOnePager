@@ -48,7 +48,7 @@ Siehe "Layout.png" - Grobe Skizze der Webseite, ohne Farben oder genauer Darstel
 
 **Quellen:**
 - [1]:"Römpp Lexikon Chemie – Thieme Online Lexikon" https://roempp.thieme.de/lexicon/RD-02-01263 15.01.23  
-  - [2]:"Smart-Rechner Online Promillerechner" https://www.smart-rechner.de/promille/rechner.php#_0 15.01.23
+- [2]:"Smart-Rechner Online Promillerechner" https://www.smart-rechner.de/promille/rechner.php#_0 15.01.23
 
 
 **Ich bestätige, dass alle Meilensteine des Projekts eigens ausgearbeitet wurden und gegebenenfalls Quellen angegeben wurden.**
