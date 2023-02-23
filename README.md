@@ -7,6 +7,8 @@
 
 *Meilensteine 1 bis 2 sind in diesem Dokument zu finden. Meilenstein 3 wurde in "index.html" sowie "style.css" bearbeitet.*
 
+*Das Layout für die Responsive Seite befindet sich im Dokument "Layout_Responsive.png"*
+
 **Farben:**
 
 - Header:  
